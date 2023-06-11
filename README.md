@@ -16,4 +16,6 @@
 ![image06](https://github.com/june4969/Chatbot_/assets/127813398/a1d536ea-583c-470a-ba4e-4332413534c4)
 
 ## 시연GIF
+![KakaoTalk_20230611_151616822](https://github.com/june4969/Chatbot_/assets/127813398/5e622612-e632-4827-aa58-593865807d53)
+
 ![KakaoTalk_20230611_151438297](https://github.com/june4969/Chatbot_/assets/127813398/e49ca43c-a50b-4800-96f1-d7b098196146)
